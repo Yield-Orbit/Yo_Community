@@ -12,11 +12,11 @@ Have an idea to make YO better? Found a bug that drives you crazy?
 
 ### 2️⃣ Questions
 Not sure how to import data? Charts not showing up? Any usage questions are welcome.
-👉 **[Ask a Question](https://github.com/YieldOrbit/community/issues/new?template=question.yml)**
+👉 **[Ask a Question](https://github.com/【你的用户名】/community/issues/new?template=question.yml)**
 
 ### 3️⃣ Discussions
 Want to show off a cool chart you made with YO? Want to chat with other users?
-👉 **[Start a Discussion](https://github.com/YieldOrbit/community/issues/new?template=discussion.yml)**
+👉 **[Start a Discussion](https://github.com/【你的用户名】/community/issues/new?template=discussion.yml)**
 
 ---
 
@@ -57,11 +57,9 @@ We're building a set of mini-games that automatically generate personal data rep
 
 ---
 
-## 📢 More Channels
+## 📢 Connect with Us
 
-- **QQ Group**: 【TBD】
-- **WeChat Group**: 【TBD】 (official announcements only)
-- **Feishu Knowledge Base**: 【TBD】
+- **QQ Group**: 1101886043
 
 ---
 

@@ -1,0 +1,19 @@
+name: 🗣️ Discussion
+description: Share your work, ideas, or just chat
+labels: ["discussion"]
+body:
+  - type: markdown
+    attributes:
+      value: "Welcome! There's no right or wrong here — just conversation."
+  - type: textarea
+    id: share
+    attributes:
+      label: What's on your mind?
+      placeholder: e.g. I made this chart with YO — what do you think?
+    validations:
+      required: true
+  - type: input
+    id: screenshot
+    attributes:
+      label: Got a screenshot? (optional)
+      placeholder: Paste an image link or drag & drop

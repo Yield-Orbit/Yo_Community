@@ -1,0 +1,22 @@
+name: 💡 Feedback
+description: Share an idea or report a bug
+labels: ["feedback"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for your feedback — every word helps us improve."
+  - type: textarea
+    id: suggestion
+    attributes:
+      label: Your suggestion or bug report
+      placeholder: e.g. I'd love to see a heatmap feature…
+    validations:
+      required: true
+  - type: dropdown
+    id: urgency
+    attributes:
+      label: How important is this to you?
+      options:
+        - "Very important — I need this"
+        - "Nice to have, but not urgent"
+        - "Just throwing it out there"
